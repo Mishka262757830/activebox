@@ -134,7 +134,7 @@ header .container {
 }
 
 .intro_button:hover {
-    transition: background-color, color 0.5s linear;
+    transition: all 0.5s linear;
     background-color: #ffffff;
     color: #e84545;
 }
